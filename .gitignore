@@ -1,0 +1,19 @@
+# Local development notes and superseded files
+DESIGN_NOTES.md
+script.js
+CNAME.example
+
+# Editor settings
+.idea/
+.vscode/
+*.code-workspace
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+__pycache__/
+*.py[cod]
+~$*
