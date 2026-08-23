@@ -2,7 +2,7 @@
 
 Personal academic homepage for Yuanbo Guo, a Ph.D. candidate in Computer Science and Engineering at the University of Notre Dame.
 
-Live site: [https://guoyb17.github.io/](https://guoyb17.github.io/)
+Live site: [https://www.yguo6.net/](https://www.yguo6.net/)
 
 ## About the site
 
@@ -18,10 +18,13 @@ index.html                  Homepage
 styles.css                  Shared responsive styles
 robots.txt                  Crawler guidance
 sitemap.xml                 Homepage sitemap
+CNAME                       GitHub Pages custom domain
 favicon.ico                 Browser favicon fallback
 assets/favicon.svg          Primary favicon
 assets/favicon-32.png       PNG favicon fallback
 assets/apple-touch-icon.png Apple touch icon
+assets/social-card.svg      Editable social-preview artwork
+assets/social-card.png      Open Graph and social-preview image
 ```
 
 ## Local preview

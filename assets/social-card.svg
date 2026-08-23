@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Yuanbo Guo — Efficient AI and Hardware–Model Co-Design</title>
+  <desc id="description">Academic profile social card for Yuanbo Guo, Ph.D. candidate at the University of Notre Dame.</desc>
+  <rect width="1200" height="630" fill="#f7f8fa"/>
+  <rect width="1200" height="18" fill="#1e4f70"/>
+
+  <g opacity="0.72" stroke="#afc3cf" stroke-width="2" fill="none">
+    <path d="M890 115h185v185H890z"/>
+    <path d="M930 155h105v105H930z"/>
+    <path d="M982.5 115v-38M982.5 338v-38M890 207.5h-38M1113 207.5h-38"/>
+    <path d="M930 175h-78M1035 175h78M930 240h-78M1035 240h78"/>
+    <circle cx="852" cy="175" r="6" fill="#1e4f70" stroke="none"/>
+    <circle cx="852" cy="240" r="6" fill="#1e4f70" stroke="none"/>
+    <circle cx="1113" cy="175" r="6" fill="#1e4f70" stroke="none"/>
+    <circle cx="1113" cy="240" r="6" fill="#1e4f70" stroke="none"/>
+    <circle cx="982.5" cy="77" r="6" fill="#1e4f70" stroke="none"/>
+    <circle cx="982.5" cy="338" r="6" fill="#1e4f70" stroke="none"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" fill="#242424">
+    <text x="88" y="92" fill="#1e4f70" font-size="22" font-weight="700" letter-spacing="4">ACADEMIC PROFILE</text>
+    <text x="82" y="205" font-size="76" font-weight="700" letter-spacing="-2">Yuanbo Guo</text>
+    <rect x="86" y="238" width="126" height="5" fill="#1e4f70"/>
+    <text x="84" y="316" font-size="42" font-weight="620">Efficient AI and</text>
+    <text x="84" y="369" font-size="42" font-weight="620">Hardware–Model Co-Design</text>
+    <text x="86" y="450" fill="#555f66" font-size="27">Ph.D. Candidate · University of Notre Dame</text>
+    <text x="86" y="554" fill="#1e4f70" font-size="25" font-weight="650">www.yguo6.net</text>
+  </g>
+</svg>

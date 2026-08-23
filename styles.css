@@ -487,6 +487,17 @@ p {
   letter-spacing: 0.12em;
 }
 
+@media (max-width: 1020px) {
+  .featured-list {
+    grid-template-columns: 1fr;
+    gap: 1.35rem;
+  }
+
+  .profile-links li:not(:last-child)::after {
+    display: none;
+  }
+}
+
 @media (max-width: 880px) {
   .page-grid {
     grid-template-columns: minmax(0, 1fr) 235px;
@@ -495,11 +506,6 @@ p {
 
   .sidebar {
     padding-inline: 1.15rem;
-  }
-
-  .featured-list {
-    grid-template-columns: 1fr;
-    gap: 1.35rem;
   }
 }
 
@@ -589,10 +595,6 @@ p {
 
   h2 {
     font-size: 1.34rem;
-  }
-
-  .profile-links li:not(:last-child)::after {
-    display: none;
   }
 
   .publication-item,

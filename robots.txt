@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guoyb17.github.io/sitemap.xml
+Sitemap: https://www.yguo6.net/sitemap.xml
