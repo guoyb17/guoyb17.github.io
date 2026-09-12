@@ -2,6 +2,7 @@
 DESIGN_NOTES.md
 script.js
 CNAME.example
+.local-preview/
 
 # Editor settings
 .idea/

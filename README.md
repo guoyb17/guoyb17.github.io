@@ -8,7 +8,9 @@ Live site: [https://www.yguo6.net/](https://www.yguo6.net/)
 
 The site presents research in efficient AI, hardware–model co-design, model compression, and population-level model performance, together with selected publications, teaching, mentoring, and systems experience.
 
-It is a lightweight static site built with semantic HTML and CSS. It has no build step, JavaScript dependency, analytics, cookies, or third-party runtime assets.
+It is a lightweight static site built with semantic HTML, CSS, and a small theme script. It has no build step, external JavaScript dependencies, analytics, cookies, or third-party runtime assets.
+
+The color theme follows the browser's system preference by default. The header controls let visitors choose system, light, or dark mode; explicit choices are remembered locally in the browser. The site also follows the system theme when JavaScript is disabled.
 
 ## Repository structure
 
@@ -16,6 +18,7 @@ It is a lightweight static site built with semantic HTML and CSS. It has no buil
 index.html                  Homepage
 404.html                    Custom not-found page
 styles.css                  Shared responsive styles
+theme.js                    System-aware theme preference and controls
 robots.txt                  Crawler guidance
 sitemap.xml                 Homepage sitemap
 CNAME                       GitHub Pages custom domain
