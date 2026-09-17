@@ -6,7 +6,7 @@ Live site: [https://www.yguo6.net/](https://www.yguo6.net/)
 
 ## About the site
 
-The site presents research in efficient AI, hardware–model co-design, model compression, and population-level model performance, together with selected publications, teaching, mentoring, and systems experience.
+The site presents research in efficient and reliable AI systems, with a focus on hardware–model co-design and compression methods that reduce performance gaps across population groups. It includes selected publications, a separately labeled preprint, teaching, mentoring, systems experience, and academic service.
 
 It is a lightweight static site built with semantic HTML, CSS, and a small theme script. It has no build step, external JavaScript dependencies, analytics, cookies, or third-party runtime assets.
 
