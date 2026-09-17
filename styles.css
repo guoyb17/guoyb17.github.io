@@ -554,11 +554,6 @@ p {
   font-variant-numeric: tabular-nums;
 }
 
-.metric-source {
-  padding-block: 0.2rem;
-  font-size: 0.8rem;
-}
-
 .paper-links {
   display: flex;
   flex-wrap: wrap;
