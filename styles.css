@@ -349,6 +349,10 @@ p {
   font-weight: 600;
 }
 
+.job-market-actions {
+  white-space: nowrap;
+}
+
 .intro-lede {
   font-size: 1.08rem;
   line-height: 1.7;
@@ -446,17 +450,6 @@ p {
   color: var(--muted);
   font-size: 0.94rem;
   line-height: 1.65;
-}
-
-.featured-result strong {
-  color: var(--text);
-  font-weight: 650;
-}
-
-.result-context {
-  display: block;
-  margin-top: 0.35rem;
-  font-size: 0.83rem;
 }
 
 .teaching-evaluation {
